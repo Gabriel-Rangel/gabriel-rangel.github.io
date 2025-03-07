@@ -13,8 +13,15 @@ group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jekyll-sitemap'
     gem 'jekyll-paginate'
+    gem 'jekyll-gist'
     gem 'jekyll-seo-tag'
     gem 'jekyll-archives'
+    gem 'jekyll-linkpreview'
+    gem 'jekyll-embed-urls'
     gem 'kramdown'
     gem 'rouge'
+    gem "rss"
+    gem 'safe_yaml'
+    gem 'jekyll-compress-images'
+    gem "jekyll-import", git: "https://github.com/pew/jekyll-import.git"
 end
