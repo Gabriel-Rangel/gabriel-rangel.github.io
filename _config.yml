@@ -38,6 +38,14 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-gist
+  - jekyll-embed-urls
+  - jekyll-linkpreview
     
 # Archives
 jekyll-archives:
