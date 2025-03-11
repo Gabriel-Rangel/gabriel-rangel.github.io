@@ -25,3 +25,9 @@ group :jekyll_plugins do
     gem 'jekyll-compress-images'
     gem "jekyll-import", git: "https://github.com/pew/jekyll-import.git"
 end
+gem "csv"
+gem "base64"
+gem "json"
+gem 'webrick'
+gem 'bigdecimal'
+
